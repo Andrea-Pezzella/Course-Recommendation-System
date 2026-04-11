@@ -1,0 +1,81 @@
+field,course_number,course_code,course_name
+Business and Management,105,bus105,bus105 - Principles of Management
+Business and Management,115,bus115,bus115 - Financial Accounting
+Business and Management,125,bus125,bus125 - Marketing Basics
+Business and Management,135,bus135,bus135 - Organizational Behavior
+Business and Management,155,bus155,bus155 - Operations Management
+Business and Management,175,bus175,bus175 - Business Analytics
+Business and Management,210,bus210,bus210 - Corporate Finance
+Business and Management,230,bus230,bus230 - Entrepreneurship
+Business and Management,240,bus240,bus240 - Strategic Management
+Business and Management,260,bus260,bus260 - Project Management
+Business and Management,275,bus275,bus275 - Supply Chain
+Business and Management,285,bus285,bus285 - Business Law
+Business and Management,300,bus300,bus300 - HR Management
+Business and Management,320,bus320,bus320 - Principles of Management
+Business and Management,340,bus340,bus340 - Financial Accounting
+Business and Management,360,bus360,bus360 - Marketing Basics
+Computer science,105,comp105,comp105 - Intro to Programming
+Computer science,115,comp115,comp115 - Data Structures
+Computer science,125,comp125,comp125 - Algorithms
+Computer science,135,comp135,comp135 - Databases
+Computer science,155,comp155,comp155 - Operating Systems
+Computer science,175,comp175,comp175 - Computer Networks
+Computer science,210,comp210,comp210 - Machine Learning
+Computer science,230,comp230,comp230 - Software Engineering
+Computer science,240,comp240,comp240 - Web Development
+Computer science,260,comp260,comp260 - Distributed Systems
+Computer science,275,comp275,comp275 - Computer Security
+Computer science,285,comp285,comp285 - Cloud Computing
+Computer science,300,comp300,comp300 - Data Mining
+Computer science,320,comp320,comp320 - Intro to Programming
+Computer science,340,comp340,comp340 - Data Structures
+Computer science,360,comp360,comp360 - Algorithms
+Creative Arts and Design,105,arts105,arts105 - Design Fundamentals
+Creative Arts and Design,115,arts115,arts115 - Drawing I
+Creative Arts and Design,125,arts125,arts125 - Digital Media
+Creative Arts and Design,135,arts135,arts135 - Typography
+Creative Arts and Design,155,arts155,arts155 - Color Theory
+Creative Arts and Design,175,arts175,arts175 - 3D Modeling
+Creative Arts and Design,210,arts210,arts210 - Photography
+Creative Arts and Design,230,arts230,arts230 - Interaction Design
+Creative Arts and Design,240,arts240,arts240 - Motion Graphics
+Creative Arts and Design,260,arts260,arts260 - Portfolio Studio
+Creative Arts and Design,275,arts275,arts275 - Illustration
+Creative Arts and Design,285,arts285,arts285 - Game Art
+Creative Arts and Design,300,arts300,arts300 - UX Design
+Creative Arts and Design,320,arts320,arts320 - Design Fundamentals
+Creative Arts and Design,340,arts340,arts340 - Drawing I
+Creative Arts and Design,360,arts360,arts360 - Digital Media
+History and Culture,105,hist105,hist105 - World History
+History and Culture,115,hist115,hist115 - Canadian History
+History and Culture,125,hist125,hist125 - Cultural Studies
+History and Culture,135,hist135,hist135 - Modern Europe
+History and Culture,155,hist155,hist155 - History of Science
+History and Culture,175,hist175,hist175 - Indigenous Histories
+History and Culture,210,hist210,hist210 - Middle East History
+History and Culture,230,hist230,hist230 - Asian Civilizations
+History and Culture,240,hist240,hist240 - Public History
+History and Culture,260,hist260,hist260 - Historiography
+History and Culture,275,hist275,hist275 - Ancient Civilizations
+History and Culture,285,hist285,hist285 - Medieval Worlds
+History and Culture,300,hist300,hist300 - Global Migrations
+History and Culture,320,hist320,hist320 - World History
+History and Culture,340,hist340,hist340 - Canadian History
+History and Culture,360,hist360,hist360 - Cultural Studies
+Media and Communications,105,media105,media105 - Communication Strategies
+Media and Communications,115,media115,media115 - Media Writing
+Media and Communications,125,media125,media125 - Public Speaking
+Media and Communications,135,media135,media135 - Digital Journalism
+Media and Communications,155,media155,media155 - Social Media
+Media and Communications,175,media175,media175 - Visual Communication
+Media and Communications,210,media210,media210 - Media Ethics
+Media and Communications,230,media230,media230 - PR Fundamentals
+Media and Communications,240,media240,media240 - Podcasting
+Media and Communications,260,media260,media260 - Media Production
+Media and Communications,275,media275,media275 - Brand Storytelling
+Media and Communications,285,media285,media285 - Advertising Concepts
+Media and Communications,300,media300,media300 - Content Strategy
+Media and Communications,320,media320,media320 - Communication Strategies
+Media and Communications,340,media340,media340 - Media Writing
+Media and Communications,360,media360,media360 - Public Speaking
