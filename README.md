@@ -53,6 +53,11 @@ Logistic Regression achieved better performance and was selected as the final mo
 
 ---
 
+## Model Comparison Visualization
+![Results](images/ModelComparison.png)
+
+---
+
 ## How It Works
 1. User inputs a student ID  
 2. The system retrieves the student's profile  
@@ -68,6 +73,11 @@ Logistic Regression achieved better performance and was selected as the final mo
 | hist125    | Cultural Studies  | 0.92             |
 | hist135    | Modern Europe     | 0.85             |
 | hist105    | World History     | 0.83             |
+
+---
+
+## Example Output Visualization
+![Results](images/CourseSystemOutput.png)
 
 ---
 
