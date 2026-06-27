@@ -5,7 +5,7 @@ This project develops a machine learning-based recommendation system that predic
 
 By leveraging student data, the system provides data-driven insights to support better academic decision-making.
 
-Try the Course Recommendation System here: https://colab.research.google.com/drive/12sxb9zOFnwEWdDqvsath3BFS7QteA1Ca#scrollTo=sfPqrd-eUUBB
+---> **Try the Course Recommendation System here:** https://colab.research.google.com/drive/12sxb9zOFnwEWdDqvsath3BFS7QteA1Ca#scrollTo=sfPqrd-eUUBB
 
 ---
 
