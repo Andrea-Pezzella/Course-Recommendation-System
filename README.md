@@ -1,4 +1,4 @@
-# Course Recommendation System | Python & Google Colab
+# Course Recommendation System | Python + Google Colab
 
 ## Overview
 This project develops a machine learning-based recommendation system that predicts a student's probability of success across different courses and generates personalized course suggestions.
